@@ -18,7 +18,7 @@ Credits and references used in this README:
 - Skilled in Machine Learning, Data Analytics, SQL, and Python.
 - Experienced in building AI-powered applications and data-driven dashboards.
 - Strong background in database management and business insights through visualization.
-- Passionate about applying AI and Data Science to solve real-world problems.
+- Interested in applying AI and Data Science to solve real-world problems.
 
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
