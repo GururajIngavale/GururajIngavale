@@ -60,6 +60,21 @@ Credits and references used in this README:
       <br/>
       <sub>Tags: Power BI , Data Manipulation,Data Visualization</sub>
     </td>
+
+   <td align="center" width="33%">
+      <a href="https://github.com/GururajIngavale/Predicting-Forest-Fires-in-Algeria-with-Machine-Learning">
+        <img src="https://github.com/GururajIngavale/Predicting-Forest-Fires-in-Algeria-with-Machine-Learning/blob/main/Screenshot%202025-10-01%20224103.png"
+             alt="Algerian Forest Fire Prediction Using Machine Learning"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>ML, Linear Regression, Elastic Net, Data Manipulation,Data Visualization </b><br/>
+      <sub>Algerian Forest Fire Prediction Using Machine Learning.</sub><br/>
+      🔗 <a href="https://github.com/GururajIngavale/Predicting-Forest-Fires-in-Algeria-with-Machine-Learning">Repo</a>
+      <br/>
+      <sub>Tags: ML, Linear Regression, Elastic Net, Data Manipulation,Data Visualization </sub>
+    </td>
+    
 <!--     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
         <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
