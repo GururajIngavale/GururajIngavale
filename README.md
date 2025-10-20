@@ -11,7 +11,7 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# 👩‍💻 Ingavale Gururaj 
+# 👩‍💻 Gururaj Ingavale 
 **`Google Student Ambassidor`** 
 
 ## About Me
