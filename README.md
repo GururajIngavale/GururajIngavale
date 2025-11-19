@@ -14,6 +14,10 @@ Credits and references used in this README:
 # 👩‍💻 Gururaj Ingavale 
 **`Google Student Ambassidor`** 
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=PressStart2P&size=35&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hola!!;I+Love+To+Make+Things+Perfect"/>
+</h1>
+
 ## About Me
 - Skilled in Machine Learning, Data Analytics, SQL, and Python.
 - Experienced in building AI-powered applications and data-driven dashboards.
@@ -32,64 +36,18 @@ Credits and references used in this README:
 
 ## Projects - showcase
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/GururajIngavale/Global-Retail-Analytics-Dashboard-for-Growth.git">
-        <img src="https://github.com/GururajIngavale/Global-Retail-Analytics-Dashboard-for-Growth/blob/main/Screenshot%202025-09-04%20230057.png"
-             alt="Global-Retail-Analytics-Dashboard-for-Growth"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Global-Retail-Analytics-Dashboard-for-Growth</b><br/>
-<!--       <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/> -->
-      🔗 <a href="https://github.com/GururajIngavale/Global-Retail-Analytics-Dashboard-for-Growth.git">Repo</a>
-      <br/>
-      <sub>Tags: Power BI,Data Manipulation,Visualization</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/GururajIngavale/Social-Buzz.git">
-        <img src="https://github.com/GururajIngavale/Social-Buzz/blob/main/Screenshot%202025-09-04%20173019.png"
-             alt="Social Buzz Analytical Dashboard"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Power BI , Data Manipulation,Data Visualization </b><br/>
-      <sub>Social Buzz Analytical Dashboard.</sub><br/>
-      🔗 <a href="https://github.com/GururajIngavale/Social-Buzz.git">Repo</a>
-      <br/>
-      <sub>Tags: Power BI , Data Manipulation,Data Visualization</sub>
-    </td>
+<div align="center">
 
-   <td align="center" width="33%">
-      <a href="https://github.com/GururajIngavale/Predicting-Forest-Fires-in-Algeria-with-Machine-Learning">
-        <img src="https://github.com/GururajIngavale/Predicting-Forest-Fires-in-Algeria-with-Machine-Learning/blob/main/Screenshot%202025-10-01%20224103.png"
-             alt="Algerian Forest Fire Prediction Using Machine Learning"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>ML, Linear Regression, Elastic Net, Data Manipulation,Data Visualization </b><br/>
-      <sub>Algerian Forest Fire Prediction Using Machine Learning.</sub><br/>
-      🔗 <a href="https://github.com/GururajIngavale/Predicting-Forest-Fires-in-Algeria-with-Machine-Learning">Repo</a>
-      <br/>
-      <sub>Tags: ML, Linear Regression, Elastic Net, Data Manipulation,Data Visualization </sub>
-    </td>
-    
-<!--     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="VPC Networking Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
-      <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
-    </td> -->
-  </tr>
-</table>
+|  Project |  Description |  Tech Stack |
+|-------------|----------------|----------------|
+|  **RagOrder** | StrategyPulse is a modern algorithmic trading engine. | `Python`, `RAG`,`TA-LIB`,`Langchain` |
+|  **FireSense Algeria** | Predict the likelihood of forest fires based on weather conditions. | `Python`, `Linear Regression`, `Lasso Reg`,`Elastic Net Reg` |
+|  **RetailGlobe** |Global Retail Analytics Dashboard for Growth, a comprehensive, interactive Power BI dashboard! | `Data Analytics`,`Power BI`|
+|  **Social Buzz** |Power BI dashboard designed to analyze social buzz trends across diverse content categories.|`Data Analytics`,`Power BI`,`Statistical Analysis`|
+|  **F1 Race Outcome Prediction** | Predict the likelihood of forest fires based on weather conditions. | `Python`, `Linear Regression`, `Scikit-learn`,`Elastic Net`|
+
+
+</div>
 
 ---
 
