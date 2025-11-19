@@ -51,6 +51,20 @@ Credits and references used in this README:
 
 ---
 
+<h2 align="center" style="color:#FF69B4;">My Digital Footprints</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gururaj-ingavale/?locale=en_US" target="_blank">
+ <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/GururajIngavale" target="_blank">
+ <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/XyzGameing" target="_blank">
+ <img src="https://skillicons.dev/icons?i=twitter"/>
+</p>
+
 <!-- ## Stats >
  <!-- Stats card by anuraghazra/github-readme-stats
       Customization guide:
