@@ -12,7 +12,7 @@ Credits and references used in this README:
 -->
 
 # 👩‍💻 Gururaj Ingavale 
-**`Google Student Ambassidor`** 
+**`Google Student Ambassiaddor`** 
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=PressStart2P&size=35&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hola!!;I+Love+To+Make+Things+Perfect"/>
