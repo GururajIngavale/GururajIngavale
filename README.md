@@ -43,6 +43,7 @@ Credits and references used in this README:
 |  **SAX-ML Market Pattern Forecaster** | Developed a financial pattern prediction system (Nifty50) using Symbolic Aggregate Approximation. | `Python`,`yfinance`,`Math (Core formulas)`,`Machine Learning`, `frequency analysis`, `pattern counting` |
 |  **Black-Scholes & Monte Carlo Option Pricing Model** | Calculate the fair price of European Call and Put Options using both the Black-Scholes formula and the Monte Carlo simulation. | `Financial Modeling`,`Monte Carlo Stochastic Modeling`,`Math (Core formulas)`,`Python`, `SciPy`, `Numpy` |
 |  **RagOrder** | StrategyPulse is a modern algorithmic trading engine. | `Python`, `RAG`,`TA-LIB`,`Langchain` |
+|  **3 Statement Financial Model** | Fully structured 3-Statement Financial Model (Income Statement, Balance Sheet, and Cash Flow Statement) built using real financial data from the Mercedes-Benz Group Annual Report 2024. | `Accounting logic & financial statement integration`, `Cash Flow Modeling`, `Financial Modeling`,`Corporate finance & valuation fundamentals` |
 |  **FireSense Algeria** | Predict the likelihood of forest fires based on weather conditions. | `Python`, `Linear Regression`, `Lasso Reg`,`Elastic Net Reg` |
 |  **RetailGlobe** |Global Retail Analytics Dashboard for Growth, a comprehensive, interactive Power BI dashboard! | `Data Analytics`,`Power BI`|
 |  **Social Buzz** |Power BI dashboard designed to analyze social buzz trends across diverse content categories.|`Data Analytics`,`Power BI`,`Statistical Analysis`|
