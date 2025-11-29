@@ -40,6 +40,7 @@ Credits and references used in this README:
 
 |  Project |  Description |  Tech Stack |
 |-------------|----------------|----------------|
+|  **SAX-ML Market Pattern Forecaster** | Developed a financial pattern prediction system (Nifty50) using Symbolic Aggregate Approximation. | `Python`,`yfinance`,`Math (Core formulas)`,`Machine Learning`, `frequency analysis`, `pattern counting` |
 |  **Black-Scholes & Monte Carlo Option Pricing Model** | Calculate the fair price of European Call and Put Options using both the Black-Scholes formula and the Monte Carlo simulation. | `Financial Modeling`,`Monte Carlo Stochastic Modeling`,`Math (Core formulas)`,`Python`, `SciPy`, `Numpy` |
 |  **RagOrder** | StrategyPulse is a modern algorithmic trading engine. | `Python`, `RAG`,`TA-LIB`,`Langchain` |
 |  **FireSense Algeria** | Predict the likelihood of forest fires based on weather conditions. | `Python`, `Linear Regression`, `Lasso Reg`,`Elastic Net Reg` |
